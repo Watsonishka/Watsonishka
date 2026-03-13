@@ -50,3 +50,8 @@
 
 ---
 ⭐ **Люблю работать за компьютером, разбираться в сложных вещах и делать продукты, которыми приятно пользоваться.**
+
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Watsonishka&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watsonishka&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Watsonishka&theme=tokyonight)
