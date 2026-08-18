@@ -74,8 +74,8 @@
 
 ---
 
-📌 **Стек тегами:**  
-`C#` `.NET` `ASP.NET MVC` `Entity Framework` `PostgreSQL` `LINQ` `OOP` `Windows Forms` `JavaScript` `Unity` `3Ds Max` `Corona Renderer` `Blender` `Marmoser Toolbag 4` `Substance Painter` `Unreal Engine 5`
+📌 **Стек технологий:**  
+`C#` `.NET`  `Visual Studio 2026`  `ASP.NET MVC` `Entity Framework` `PostgreSQL` `LINQ` `OOP` `HTML` `CSS` `Windows Forms` `JavaScript` `Unity` `3Ds Max` `Corona Renderer` `Blender` `Marmoser Toolbag 4` `Substance Painter` `Unreal Engine 5`
 
 ---
 
